@@ -1,0 +1,12 @@
+span{
+    font-style: italic;
+}
+
+body{
+    background-color: rgba(167, 242, 56, 0.341);
+}
+
+img{
+    max-height: 100px;
+    max-width: 100px;
+}
